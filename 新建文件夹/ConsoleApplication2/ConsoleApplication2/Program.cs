@@ -11,6 +11,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("我们是来自地狱的勇士");
         }
     }
 }
